@@ -24,10 +24,6 @@ This project demonstrates the creation of an interactive Sales Dashboard using M
 * Slicers
 * Conditional Formatting
 
-## Project Status
-
-🚧 In Progress
-
 ## Author
 
 Sri Nandhini
